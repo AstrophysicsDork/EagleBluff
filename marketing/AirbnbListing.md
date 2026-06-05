@@ -36,8 +36,9 @@ See also: [Property Description](PropertyDescription.md)
 
 ### Other Things to Note
 
-- **Private island ferry** — operated by Herron Island homeowners' association ([HMCHI](https://www.hmchi.org/p/FERRY)), **not** Washington State Ferries. Guest pass required (provided by host).
-- Crossing ~7–10 minutes.
+- **Private island ferry** — operated by Herron Island homeowners' association ([HMCHI](https://www.hmchi.org/p/FERRY)), **not** Washington State Ferries. Guest pass required (coordinated before arrival).
+- Mainland dock: 201 Isted Rd NW, Lakebay, WA. Crossing ~7–10 minutes. **$25 per vehicle.**
+- Ferry runs on a **seasonal schedule** with **regular low-tide cancellations** — guests must check HMCHI schedule PDFs before each crossing ([schedule guide](../docs/31-FerrySchedules.md)).
 - <!-- TODO: Groceries before ferry, septic, cell coverage, quiet island — set expectations -->
 
 ---

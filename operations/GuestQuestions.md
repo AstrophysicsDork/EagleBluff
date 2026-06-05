@@ -31,4 +31,8 @@
 
 <!-- Track patterns: ferry, groceries, WiFi, fireplace, wildlife, checkout, etc. -->
 
-_None logged yet._
+| Theme | Doc coverage |
+|-------|----------------|
+| Ferry schedule / missed boat / low tide | `docs/31-FerrySchedules.md` |
+| WSDOT vs HMCHI ferry confusion | `docs/30-FerryArrivalGuide.md` |
+| Guest pass | `docs/30-FerryArrivalGuide.md` |

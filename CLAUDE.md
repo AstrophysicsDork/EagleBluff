@@ -30,7 +30,9 @@ Key characteristics:
 
 - Access is primarily via **private HMCHI ferry** — **not** Washington State Ferries (WSDOT)
 - Ferry info: [hmchi.org/p/FERRY](https://www.hmchi.org/p/FERRY)
-- **Valid guest pass required** to board; host provides pass for rental guests
+- **Valid guest pass required** to board; coordinated by **Haidee Clingman** (cleaner / on-island contact) for rental guests
+- Mainland dock: **201 Isted Rd NW, Lakebay, WA**
+- **$25 per vehicle** on the ferry (no practical vehicle limit per reservation)
 - Crossing time ~7–10 minutes
 - Guests must understand ferry logistics before arrival
 - Grocery and supply access is limited after crossing
@@ -92,6 +94,7 @@ Create and maintain these first:
 | 2 | House Rules | `docs/20-HouseRules.md` |
 | 3 | Quick Start Sheet | `docs/25-QuickStartSheet.md` |
 | 4 | Ferry & Arrival Guide | `docs/30-FerryArrivalGuide.md` |
+| 4b | Ferry Schedules | `docs/31-FerrySchedules.md` |
 | 5 | Emergency Guide | `docs/35-EmergencyGuide.md` |
 | 6 | Checkout Checklist | `docs/40-CheckoutChecklist.md` |
 
@@ -142,7 +145,7 @@ Conservation requirements, water source information, leak reporting.
 
 ### Ferry Dependence
 
-Private HMCHI ferry (not WSDOT). Guest pass required. Schedules, delays, planning ahead, consequences of missing departures. Many guests mistakenly search for Washington State Ferries — set this expectation early.
+Private HMCHI ferry (not WSDOT). Guest pass required. **Seasonal PDF schedules** plus a **cancellations/low-tide bulletin** updated regularly — guests must check both. Summer vs winter grids; IS/ML departure pairs. Low tide (~−1.5 ft) cancels runs. Many guests mistakenly search for Washington State Ferries — set this expectation early. Future: dock cameras on both sides; not live yet.
 
 ### Power Outages
 

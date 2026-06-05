@@ -44,13 +44,15 @@
 
 Herron Island is reached by a **private ferry** operated by the [Homeowners' Association of Herron Island (HMCHI)](https://www.hmchi.org/) — **not** Washington State Ferries.
 
-- **Guest pass required** to board (provided by Eagle Bluff)
-- Crossing takes ~7–10 minutes
+- **Guest pass required** — coordinated by Haidee Clingman (cleaner / on-island contact)
+- **Mainland dock:** 201 Isted Rd NW, Lakebay, WA
+- Crossing ~7–10 minutes · **$25 per vehicle**
+- Schedules: [Ferry Schedules](31-FerrySchedules.md) — **check cancellations before every crossing**
 - Ferry info: [hmchi.org/p/FERRY](https://www.hmchi.org/p/FERRY)
 
 See also: [Ferry & Arrival Guide](30-FerryArrivalGuide.md) (detailed).
 
-<!-- TODO: Dock directions, arrival on island, property access -->
+<!-- TODO: Drive from island ferry landing to Eagle Bluff, property access -->
 
 ---
 

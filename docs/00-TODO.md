@@ -9,10 +9,13 @@
 - [x] Ferry is **HMCHI private ferry**, not WSDOT — [hmchi.org/p/FERRY](https://www.hmchi.org/p/FERRY)
 - [x] Guest pass required to board (host provides for rental guests)
 - [x] Crossing time ~7–10 minutes
-- [ ] How guest pass is delivered to rental guests (mail, email, pick-up)
-- [ ] Ferry schedule / departure times (confirm from HMCHI policy docs)
+- [x] Guest pass coordinated by **Haidee Clingman** (cleaner / on-island contact)
+- [ ] Exact guest pass handoff (at property on arrival? mailed ahead?)
+- [x] Seasonal schedule PDFs (winter 2025–26, summer 2026) — see `31-FerrySchedules.md`
+- [x] Cancellations / low-tide bulletin (check every travel day)
 - [ ] Ferry etiquette (see HMCHI Guest Information Handout)
-- [ ] Vehicle limits on ferry
+- [x] Vehicles: unlimited per reservation, **$25/car** on ferry
+- [x] Mainland dock: **201 Isted Rd NW, Lakebay, WA**
 - [ ] Parking instructions at ferry dock and property
 - [ ] What happens if a ferry is missed
 - [ ] Emergency transport information
@@ -122,6 +125,7 @@
 - [ ] Content model: which docs map to which app screens
 - [ ] Wildlife tracking: orca and eagle observation log schema
 - [ ] Guest Q&A flow design
+- [ ] **Smart dock cameras** — mainland + island ferry docks; live queue / traffic in app (hardware TBD)
 
 ---
 
@@ -132,3 +136,7 @@
 | HMCHI private ferry (not WSDOT) | `30-FerryArrivalGuide.md`, `10-WelcomeBook.md`, `25-QuickStartSheet.md`, `CLAUDE.md` |
 | Guest pass requirement | `30-FerryArrivalGuide.md`, `25-QuickStartSheet.md` |
 | Crossing time 7–10 min | `30-FerryArrivalGuide.md` |
+| Haidee Clingman — pass contact | `30-FerryArrivalGuide.md`, `operations/Contacts.md` |
+| Dock address + driving routes | `30-FerryArrivalGuide.md` |
+| $25/vehicle ferry fee | `30-FerryArrivalGuide.md`, `20-HouseRules.md` |
+| HMCHI schedule + cancellation PDFs | `31-FerrySchedules.md`, `assets/ferry/` |

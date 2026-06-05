@@ -12,6 +12,10 @@ Planned .NET MAUI application for guests and hosts.
 
 Markdown files in this repository are the source of truth. The app should read/sync from `docs/` rather than duplicating content.
 
+## Planned Hardware Integration
+
+- **Ferry dock cameras** (mainland + island) — live queue visibility for guests; complements HMCHI schedule PDFs and cancellations bulletin. Not deployed yet.
+
 ## Status
 
 Not started. Content model and screen map TBD after guest docs stabilize.

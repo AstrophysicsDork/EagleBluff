@@ -23,6 +23,7 @@ This repository is the single source of truth for guest guides, house rules, ope
 | [House Rules](docs/20-HouseRules.md) | Standalone rules (2–4 pages) |
 | [Quick Start Sheet](docs/25-QuickStartSheet.md) | One-page kitchen counter sheet |
 | [Ferry & Arrival Guide](docs/30-FerryArrivalGuide.md) | Ferry logistics (critical) |
+| [Ferry Schedules](docs/31-FerrySchedules.md) | Seasonal PDFs, low-tide cancellations |
 | [Emergency Guide](docs/35-EmergencyGuide.md) | Standalone emergency reference |
 | [Checkout Checklist](docs/40-CheckoutChecklist.md) | Departure checklist |
 | [Guest Registration](docs/45-GuestRegistration.md) | Check-in acknowledgement form |
@@ -37,6 +38,7 @@ This repository is the single source of truth for guest guides, house rules, ope
 | [Cleaner Checklist](operations/CleanerChecklist.md) | Turnover procedures |
 | [Inventory](operations/Inventory.md) | Property inventory for insurance |
 | [Maintenance Log](operations/MaintenanceLog.md) | Repairs and scheduled service |
+| [Contacts](operations/Contacts.md) | Team and island contacts |
 
 ---
 

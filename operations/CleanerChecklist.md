@@ -2,6 +2,8 @@
 
 > **Host/cleaner use only.** Not for guests.
 
+**Cleaner / on-island contact:** Haidee Clingman — also coordinates guest ferry passes.
+
 **Status:** Skeleton. Refine after first turnovers.
 
 See also: [Property Condition Report](#property-condition-reference) · [Inventory](Inventory.md)

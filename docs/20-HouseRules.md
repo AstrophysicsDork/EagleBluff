@@ -54,9 +54,12 @@ By staying at Eagle Bluff, guests agree to follow these rules. Violations may re
 
 ## Vehicles & Parking
 
-Herron Island ferry requires a **valid guest pass** per vehicle (provided by host). This is a private HMCHI ferry — not Washington State Ferries.
+Herron Island ferry requires a **valid guest pass** per vehicle (coordinated by Haidee Clingman for rental guests). This is a private HMCHI ferry — not Washington State Ferries.
 
-<!-- TODO: Number of vehicles, where to park, ferry vehicle limits per HMCHI policy -->
+- **$25 per vehicle** to bring a car on the ferry
+- No practical limit on vehicles per reservation — notify host if bringing more than one
+
+<!-- TODO: Where to park at property, oversized vehicles / trailers -->
 
 ---
 
