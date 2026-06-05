@@ -18,25 +18,30 @@ By staying at Eagle Bluff, guests agree to follow these rules. Violations may re
 
 ## Occupancy & Guests
 
-<!-- TODO: Maximum guests, registered guests only, no unregistered visitors -->
+**Maximum 6 guests.** All guests must be registered on the booking. No unregistered visitors or large gatherings.
 
 ---
 
 ## Quiet Hours
 
-<!-- TODO: Start/end times -->
+**10:00 PM – 7:00 AM** (per [Airbnb listing](https://www.airbnb.com/rooms/1698780813654737500))
 
 ---
 
 ## Check-in / Check-out Times
 
-<!-- TODO: Times, early check-in / late checkout policy -->
+| | Time |
+|---|------|
+| **Check-in** | After **4:00 PM** |
+| **Check-out** | Before **11:00 AM** |
+
+Self check-in with keypad. Early check-in / late checkout by arrangement only — not guaranteed.
 
 ---
 
 ## Pets
 
-<!-- TODO: Allowed or not, conditions, fees, cleanup -->
+**Allowed** with **$85 pet fee** (+ applicable taxes/fees). Guests responsible for pet behavior and cleanup.
 
 ---
 
@@ -98,7 +103,10 @@ Herron Island ferry requires a **valid guest pass** per vehicle (coordinated by 
 
 ## BBQ / Fire Pit
 
-<!-- TODO: If applicable — safety rules, extinguishing, no beach fires if restricted -->
+- Gas grill on property — use responsibly, clean after use
+- Sound-facing **fire pit** with seating
+- **Burn-ban restrictions:** no fires **June–August** or during posted regulations
+- Extinguish fully before leaving unattended
 
 ---
 

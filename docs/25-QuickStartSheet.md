@@ -11,8 +11,9 @@
 | **WiFi Network** | <!-- TODO --> |
 | **WiFi Password** | <!-- TODO --> |
 | **Host Phone** | <!-- TODO --> |
-| **Check-out Time** | <!-- TODO --> |
-| **Quiet Hours** | <!-- TODO --> |
+| **Check-out Time** | **11:00 AM** |
+| **Check-in** | After **4:00 PM** |
+| **Quiet Hours** | **10:00 PM – 7:00 AM** |
 
 ---
 

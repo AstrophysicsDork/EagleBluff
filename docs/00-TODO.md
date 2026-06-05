@@ -79,9 +79,12 @@
 
 ## House Rules (candidates)
 
-- [ ] Quiet hours
-- [ ] Maximum occupancy
-- [ ] Pet policy
+- [x] Quiet hours — **10 PM – 7 AM** (from Airbnb listing)
+- [x] Maximum occupancy — **6 guests**
+- [x] Pet policy — allowed, **$85 fee**
+- [x] Check-in **4 PM** / checkout **11 AM**
+- [x] Burn ban fire pit — no fires June–August
+- [x] Security cameras — 2 exterior at entrances
 - [ ] Smoking policy
 - [ ] Party / event policy
 - [ ] Trash and recycling procedures
@@ -110,6 +113,9 @@
 
 ## Marketing & Story
 
+- [x] Airbnb listing live — [rooms/1698780813654737500](https://www.airbnb.com/rooms/1698780813654737500) (title: "South-Facing Herron Island Retreat…", host: Evolve)
+- [ ] **Add ferry/septic/pass info to Airbnb listing** — critical gap vs. repo docs
+- [ ] Align "Eagle Bluff" branding with Airbnb title or document both names
 - [ ] "Why people love this place" narrative
 - [ ] Peak season positioning (May–September)
 - [ ] Professional / boutique tone for listing copy
