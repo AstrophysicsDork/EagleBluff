@@ -4,7 +4,7 @@ Planned .NET MAUI application for guests and hosts.
 
 ## Intended Features
 
-- **Guest guides** — surface content from `docs/` (welcome book, ferry, emergency, checkout)
+- **Guest guides** — topic screens: surrounding area, island, home, ferry, guest impact vote
 - **Q&A** — common questions powered by `operations/GuestQuestions.md` and doc content
 - **Wildlife tracking** — log orca and eagle observations (dates, locations, notes, photos)
 

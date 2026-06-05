@@ -90,7 +90,11 @@ Create and maintain these first:
 
 | Priority | Document | Path |
 |----------|----------|------|
-| 1 | Welcome Book | `docs/10-WelcomeBook.md` |
+| 1 | Welcome Book (hub) | `docs/10-WelcomeBook.md` |
+| 1a | Surrounding area & getting here | `docs/11-SurroundingArea.md` |
+| 1b | Island & nearby | `docs/12-IslandAndNearby.md` |
+| 1c | The home (inside/out) | `docs/13-TheHome.md` |
+| 1d | Guest impact (10% donated) | `docs/15-GuestImpact.md` |
 | 2 | House Rules | `docs/20-HouseRules.md` |
 | 3 | Quick Start Sheet | `docs/25-QuickStartSheet.md` |
 | 4 | Ferry & Arrival Guide | `docs/30-FerryArrivalGuide.md` |
@@ -179,16 +183,22 @@ EagleBluff/
 ├── CLAUDE.md                 # AI assistant instructions (this file)
 ├── README.md                 # Project overview for humans
 ├── docs/                     # Guest-facing documentation
-│   ├── 00-TODO.md            # Capture bucket — dump ideas here first
-│   ├── 10-WelcomeBook.md
+│   ├── 00-TODO.md            # Capture bucket
+│   ├── 10-WelcomeBook.md     # Hub — welcome letter, why people love it, guest impact intro
+│   ├── 11-SurroundingArea.md # Mainland, drives, stock-up (NOT ferry)
+│   ├── 12-IslandAndNearby.md # Island life, beaches, wildlife, day trips
+│   ├── 13-TheHome.md         # Property inside & out
+│   ├── 15-GuestImpact.md     # 10% donation program (5% charity + 5% island vote)
 │   ├── 20-HouseRules.md
 │   ├── 25-QuickStartSheet.md
-│   ├── 30-FerryArrivalGuide.md
+│   ├── 30-FerryArrivalGuide.md  # Ferry — its own concern
+│   ├── 31-FerrySchedules.md
 │   ├── 35-EmergencyGuide.md
 │   ├── 40-CheckoutChecklist.md
 │   └── 45-GuestRegistration.md
 ├── operations/               # Host/operator procedures (not for guests)
-│   ├── GuestQuestions.md     # Running log of guest questions
+│   ├── GuestQuestions.md
+│   ├── GuestImpact.md        # Donation tracking, project votes
 │   ├── CleanerChecklist.md
 │   ├── Inventory.md
 │   └── MaintenanceLog.md

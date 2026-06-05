@@ -111,12 +111,21 @@
 - [ ] Inventory list (TVs, appliances, furniture, games)
 - [ ] Maintenance log entries
 
+## Guest Impact Program
+
+- [ ] Confirm charity partner (Make-A-Wish or other) for **5%** of stay
+- [ ] Define **5%** island clean-up project list (guest vote)
+- [ ] Choose vote mechanism (card, form, MAUI app)
+- [ ] Define 10% calculation basis (gross vs. net — ask accountant)
+- [ ] Add program language to Airbnb listing after charity confirmed
+
 ## Marketing & Story
 
-- [x] Airbnb listing live — [rooms/1698780813654737500](https://www.airbnb.com/rooms/1698780813654737500) (title: "South-Facing Herron Island Retreat…", host: Evolve)
-- [ ] **Add ferry/septic/pass info to Airbnb listing** — draft ready in `marketing/AirbnbListing.md` → send to Evolve
+- [x] Welcome book reorganized: surrounding / island / home / ferry / guest impact
+- [x] Airbnb listing live — [rooms/1698780813654737500](https://www.airbnb.com/rooms/1698780813654737500)
+- [ ] **Add ferry/septic/pass info to Airbnb listing** — draft in `marketing/AirbnbListing.md`
 - [ ] Align "Eagle Bluff" branding with Airbnb title or document both names
-- [ ] "Why people love this place" narrative
+- [ ] "Why people love this place" narrative (Jeff's voice in `10-WelcomeBook.md`)
 - [ ] Peak season positioning (May–September)
 - [ ] Professional / boutique tone for listing copy
 
@@ -146,3 +155,4 @@
 | Dock address + driving routes | `30-FerryArrivalGuide.md` |
 | $25/vehicle ferry fee | `30-FerryArrivalGuide.md`, `20-HouseRules.md` |
 | HMCHI schedule + cancellation PDFs | `31-FerrySchedules.md`, `assets/ferry/` |
+| Welcome book topic split | `11-SurroundingArea.md`, `12-IslandAndNearby.md`, `13-TheHome.md`, `15-GuestImpact.md` |

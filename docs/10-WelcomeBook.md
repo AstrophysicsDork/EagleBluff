@@ -2,7 +2,25 @@
 
 > The "coffee table" guide. Target: 20–30 pages when printed. Guests skim — use headings and bullets.
 
-**Status:** Skeleton outline. Fill in as facts are confirmed. See [00-TODO.md](00-TODO.md) for backlog.
+**Status:** Reorganized by topic. See section docs below.
+
+---
+
+## How This Guide Is Organized
+
+| # | Topic | Document |
+|---|--------|----------|
+| — | **Welcome & your stay's impact** | This page |
+| 1 | **Surrounding area & getting here** | [11-SurroundingArea.md](11-SurroundingArea.md) |
+| 2 | **The island & nearby** | [12-IslandAndNearby.md](12-IslandAndNearby.md) |
+| 3 | **The home** (inside & out) | [13-TheHome.md](13-TheHome.md) |
+| 4 | **Ferry** *(its own concern)* | [30-FerryArrivalGuide.md](30-FerryArrivalGuide.md) · [31-FerrySchedules.md](31-FerrySchedules.md) |
+| — | **House rules** | [20-HouseRules.md](20-HouseRules.md) |
+| — | **Emergency** | [35-EmergencyGuide.md](35-EmergencyGuide.md) |
+| — | **Checkout** | [40-CheckoutChecklist.md](40-CheckoutChecklist.md) |
+| — | **Quick reference** | [25-QuickStartSheet.md](25-QuickStartSheet.md) |
+
+**Ferry is not buried in "getting here."** It has its own guide — read it before your first crossing.
 
 ---
 
@@ -12,181 +30,51 @@
 
 ---
 
-## About Eagle Bluff
+## Why People Love This Place
 
-<!-- TODO: Property name, brief description, what makes this place special -->
+Perched on a **70-foot bluff** above Puget Sound on private Herron Island — views, wildlife, quiet, and a slower pace. Walls of windows and two decks face the water. Eagles and deer are common; orcas pass offshore. A moderate walk reaches South Beach Park.
 
-### Why People Love This Place
+This is not a resort. It is an **island retreat** — plan ahead, embrace the ferry, stock up on the mainland, and disconnect.
 
-<!-- TODO: The experience — disconnecting on a private island, views, wildlife, beach -->
-
----
-
-## About Herron Island
-
-<!-- TODO: Private island context, quiet residential community, limited services -->
-
-### Island Expectations
-
-<!-- TODO: Rural environment, wildlife, variable cell coverage, ferry-dependent travel -->
+<!-- TODO: Jeff's voice — what drew you to this property, what you hope guests feel -->
 
 ---
 
-## Before You Leave Home
+## Your Stay Makes a Difference
 
-> Herron Island is a private island accessible by ferry. Plan ahead. Grocery options are limited once you arrive.
+**10% of every stay is donated** — and you help decide where half of it goes.
 
-<!-- TODO: Grocery stores before ferry, ice, propane, fuel, pharmacy -->
+| Share | Where it goes | Your role |
+|-------|----------------|-----------|
+| **5%** | <!-- TODO: Confirm charity — e.g. [Make-A-Wish](https://wish.org/)? --> | Fixed — supports <!-- TODO --> |
+| **5%** | **Island clean-up & community projects** | **You choose** which project receives this portion |
 
----
+### Island projects (guest choice)
 
-## Getting Here
+Each stay, you can direct the clean-up share toward one active project. Current options:
 
-Herron Island is reached by a **private ferry** operated by the [Homeowners' Association of Herron Island (HMCHI)](https://www.hmchi.org/) — **not** Washington State Ferries.
+<!-- TODO: Maintain list with operations/GuestImpact.md -->
 
-- **Guest pass required** — coordinated by Haidee Clingman (cleaner / on-island contact)
-- **Mainland dock:** 201 Isted Rd NW, Lakebay, WA
-- Crossing ~7–10 minutes · **$25 per vehicle**
-- Schedules: [Ferry Schedules](31-FerrySchedules.md) — **check cancellations before every crossing**
-- Ferry info: [hmchi.org/p/FERRY](https://www.hmchi.org/p/FERRY)
+| Project | What it funds | Status |
+|---------|----------------|--------|
+| <!-- TODO: e.g. South Beach trail maintenance --> | | |
+| <!-- TODO: e.g. Dock-area litter removal --> | | |
+| <!-- TODO: e.g. Native planting / bluff restoration --> | | |
 
-See also: [Ferry & Arrival Guide](30-FerryArrivalGuide.md) (detailed).
+**How to vote:** <!-- TODO: QR / form / MAUI app / checkout card at property -->
 
-<!-- TODO: Drive from island ferry landing to Eagle Bluff, property access -->
-
----
-
-## Property Overview
-
-<!-- TODO: Room-by-room descriptions, photos (reference assets/photos/) -->
-
-### WiFi
-
-<!-- TODO: Network name, password, troubleshooting -->
-
-### Parking
-
-<!-- TODO: Where to park, how many vehicles -->
+See [15-GuestImpact.md](15-GuestImpact.md) for full program details.
 
 ---
 
-## Appliance Instructions
+## Before Your Trip — Read These First
 
-<!-- TODO: One subsection per appliance as needed -->
-
-- Kitchen
-- Heating / thermostat
-- Fireplace
-- Washer / dryer
-- TV / entertainment
-- BBQ / grill
-
----
-
-## Island Map
-
-<!-- TODO: Reference assets/maps/ — property location, beach access, walking routes -->
-
----
-
-## Wildlife Guide
-
-<!-- TODO: Eagles, deer, seals, otters. Tide info. Beach etiquette. -->
-
-### Eagles
-
-<!-- TODO -->
-
-### Orcas
-
-<!-- TODO: Viewing opportunities if applicable -->
-
----
-
-## Beach & Tide Guide
-
-<!-- TODO: Best access points, tide recommendations, safety, clamming/crabbing rules -->
-
----
-
-## Things to Do
-
-### On Island
-
-<!-- TODO: Beaches, walking routes, viewpoints -->
-
-### Nearby Day Trips
-
-<!-- TODO: Gig Harbor, Tacoma, Key Peninsula -->
-
-### Rainy Day Guide
-
-<!-- TODO: Board games, puzzles, movies, covered activities -->
-
----
-
-## Local Recommendations
-
-See also: [marketing/PropertyDescription.md](../marketing/PropertyDescription.md) for listing-oriented copy.
-
-### Before Ferry
-
-<!-- TODO -->
-
-### On Island
-
-<!-- TODO -->
-
----
-
-## Septic System
-
-> **Critical.** A septic issue can cost more than a year's rental profits.
-
-**Only flush:** toilet paper
-
-**Never flush:** wipes, feminine products, paper towels, grease
-
-<!-- TODO: Any property-specific details -->
-
----
-
-## Water Conservation
-
-<!-- TODO: Water source, conservation requests, leak reporting -->
-
----
-
-## Emergency Information
-
-See also: [Emergency Guide](35-EmergencyGuide.md) (standalone, easy to find).
-
-<!-- TODO: Brief summary + pointer to full emergency doc -->
-
----
-
-## House Rules
-
-See also: [House Rules](20-HouseRules.md) (standalone document).
-
-<!-- TODO: Brief summary + pointer -->
-
----
-
-## Checkout Instructions
-
-See also: [Checkout Checklist](40-CheckoutChecklist.md).
-
-<!-- TODO: Brief summary + pointer -->
-
----
-
-## Quick Reference
-
-See: [Quick Start Sheet](25-QuickStartSheet.md) — keep a copy on the kitchen counter.
+1. **[Ferry guide](30-FerryArrivalGuide.md)** — private ferry, guest pass, schedules, cancellations
+2. **[Surrounding area](11-SurroundingArea.md)** — stock up on the mainland before you cross
+3. **[House rules](20-HouseRules.md)** — quiet hours, pets, septic, fire pit
 
 ---
 
 ## Contact
 
-<!-- TODO: Host name, phone, preferred contact method, response time expectations -->
+<!-- TODO: Host name, phone, Haidee for on-island, response time expectations -->

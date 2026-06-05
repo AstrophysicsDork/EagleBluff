@@ -1,36 +1,50 @@
 # Eagle Bluff — Property Description
 
-> Core narrative and selling points. Source material for listing, welcome book intro, and MAUI app.
+> Core narrative and selling points. Organized to match guest docs.
 
-**Status:** Skeleton.
+**Status:** Partial — structure aligned to welcome book sections.
+
+| Section | Guest doc |
+|---------|-----------|
+| Surrounding area & getting here | `docs/11-SurroundingArea.md` |
+| Island & nearby | `docs/12-IslandAndNearby.md` |
+| The home | `docs/13-TheHome.md` |
+| Ferry | `docs/30-FerryArrivalGuide.md` |
+| Guest impact (10% donated) | `docs/15-GuestImpact.md` |
 
 ---
 
 ## One-Liner
 
-<!-- TODO: Single sentence pitch -->
+South-facing Puget Sound retreat on a private island bluff — views, wildlife, and quiet, with 10% of every stay donated to charity and island clean-up (guests choose the project).
 
 ---
 
 ## The Story
 
-<!-- TODO: Why this place exists, what guests feel, island retreat positioning -->
+<!-- TODO: Jeff's voice — why this place, island retreat positioning -->
 
 ### Why People Love This Place
 
-<!-- TODO: Peace, nature, disconnect, views, wildlife, beach, slower pace -->
+70-foot bluff, walls of windows, two decks, orcas and eagles, walk to South Beach — disconnect without giving up comfort.
 
 ---
 
 ## The Property
 
-<!-- TODO: Beds, baths, sq ft if known, layout highlights, notable features -->
+3BR · 2.5BA · 1,920 sq ft · 6 guests. Decks, fire pit, gas grill, bikes, heat pump, keypad check-in. See `docs/13-TheHome.md`.
 
 ---
 
 ## The Island
 
-<!-- TODO: Herron Island — private, ferry-access, residential, limited services, wildlife -->
+Private Herron Island — residential, quiet, no stores, ferry-only access. See `docs/12-IslandAndNearby.md`.
+
+---
+
+## Guest Impact
+
+10% of stay donated: 5% to <!-- TODO: charity --> + 5% to island clean-up (guest picks project). See `docs/15-GuestImpact.md`.
 
 ---
 

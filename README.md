@@ -17,16 +17,26 @@ This repository is the single source of truth for guest guides, house rules, ope
 
 ## Documentation
 
+**Welcome book** ([hub](docs/10-WelcomeBook.md)) — organized by topic:
+
 | Document | Purpose |
 |----------|---------|
-| [Welcome Book](docs/10-WelcomeBook.md) | Main guest guide (20–30 pages) |
-| [House Rules](docs/20-HouseRules.md) | Standalone rules (2–4 pages) |
-| [Quick Start Sheet](docs/25-QuickStartSheet.md) | One-page kitchen counter sheet |
-| [Ferry & Arrival Guide](docs/30-FerryArrivalGuide.md) | Ferry logistics (critical) |
+| [Surrounding Area & Getting Here](docs/11-SurroundingArea.md) | Mainland, drives, stock up before ferry |
+| [Island & Nearby](docs/12-IslandAndNearby.md) | Island life, beaches, wildlife, day trips |
+| [The Home](docs/13-TheHome.md) | Property inside & out |
+| [Guest Impact](docs/15-GuestImpact.md) | 10% donated — charity + guest-chosen island projects |
+| [Ferry & Arrival](docs/30-FerryArrivalGuide.md) | Ferry only — separate concern |
 | [Ferry Schedules](docs/31-FerrySchedules.md) | Seasonal PDFs, low-tide cancellations |
-| [Emergency Guide](docs/35-EmergencyGuide.md) | Standalone emergency reference |
+
+**Also:**
+
+| Document | Purpose |
+|----------|---------|
+| [House Rules](docs/20-HouseRules.md) | Standalone rules |
+| [Quick Start Sheet](docs/25-QuickStartSheet.md) | Kitchen counter one-pager |
+| [Emergency Guide](docs/35-EmergencyGuide.md) | Emergency reference |
 | [Checkout Checklist](docs/40-CheckoutChecklist.md) | Departure checklist |
-| [Guest Registration](docs/45-GuestRegistration.md) | Check-in acknowledgement form |
+| [Guest Registration](docs/45-GuestRegistration.md) | Check-in acknowledgement |
 
 ---
 

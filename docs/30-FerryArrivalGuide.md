@@ -4,7 +4,9 @@
 
 **Status:** Partial — schedules and cancellations linked. Island leg to Eagle Bluff still TODO.
 
-See also: [Welcome Book — Before You Leave Home](10-WelcomeBook.md#before-you-leave-home) · [Quick Start Sheet](25-QuickStartSheet.md)
+> **Ferry is its own concern** — separate from [surrounding area / driving](11-SurroundingArea.md) and [the island](12-IslandAndNearby.md).
+
+See also: [Ferry Schedules](31-FerrySchedules.md) · [Quick Start Sheet](25-QuickStartSheet.md) · [Welcome Book](10-WelcomeBook.md)
 
 ---
 
