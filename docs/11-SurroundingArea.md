@@ -39,9 +39,9 @@ Drive times are from the **mainland ferry dock** after you cross off the island.
 
 | Need | Place | Drive time | Map |
 |------|-------|------------|-----|
-| **Full grocery** | **Key IGA** — 9021 Key Peninsula Hwy NW | ~20 min | ![Key IGA](../assets/maps/020%20twenty%20minutes%20iga.png) |
-| **Quick food near dock** | **2 Margaritas** — 1509 Key Peninsula Hwy NW | ~7 min | ![2 Margaritas](../assets/maps/007%20seven%20minutes%20to%20margaritas.png) |
-| **Dining (Purdy)** | **Massimo Italian Bar & Grill** — 13802 Purdy Dr NW | ~30 min | ![Massimo](../assets/maps/030%20thirty%20minutes%20to%20italian.png) |
+| **Full grocery** | **Key IGA** — 9021 Key Peninsula Hwy NW | ~20 min | ![Key IGA](../assets/maps/route-20min-key-iga.png) |
+| **Quick food near dock** | **2 Margaritas** — 1509 Key Peninsula Hwy NW | ~7 min | ![2 Margaritas](../assets/maps/route-07min-2-margaritas.png) |
+| **Dining (Purdy)** | **Massimo Italian Bar & Grill** — 13802 Purdy Dr NW | ~30 min | ![Massimo](../assets/maps/route-28min-massimo-italian-purdy.png) |
 | **Fuel / pharmacy** | <!-- TODO: confirm nearest --> | Likely Key Center / Purdy area | |
 
 **Stock up at Key IGA** (or farther afield) before your **first** crossing if you're staying multiple days.
@@ -54,7 +54,7 @@ Drive times are from the **mainland ferry dock** after you cross off the island.
 
 Use Google Maps, Apple Maps, or Waze for live traffic. Allow time **beyond** GPS estimates for ferry wait and crossing — see [Ferry Guide](30-FerryArrivalGuide.md).
 
-![SeaTac to Herron Island](../assets/maps/075%20seventy%20five%20minutes%20to%20seaTac.png)
+![SeaTac to Herron Island](../assets/maps/route-75min-seatac-to-island.png)
 
 ### From SeaTac Airport
 
@@ -105,8 +105,8 @@ After you cross **to the mainland**, typical drives from the ferry dock:
 
 | Destination | Time · distance | Map |
 |-------------|-----------------|-----|
-| **Gig Harbor** | ~36 min · 22 mi | ![Gig Harbor](../assets/maps/040%20forty%20mins%20gig%20harbor.png) |
-| **Tacoma** | ~48 min · 35 mi (Narrows Bridge **toll**) | ![Tacoma](../assets/maps/050%20fifty%20minutes%20plus%20bridge%20to%20tacoma.png) |
+| **Gig Harbor** | ~36 min · 22 mi | ![Gig Harbor](../assets/maps/route-36min-gig-harbor.png) |
+| **Tacoma** | ~48 min · 35 mi (Narrows Bridge **toll**) | ![Tacoma](../assets/maps/route-48min-tacoma-narrows-toll.png) |
 
 Day trips (ferry + long drive): [Island & Nearby — day trips](12-IslandAndNearby.md#day-trips-off-island).
 
@@ -116,6 +116,6 @@ More on island-focused activities: [12-IslandAndNearby.md](12-IslandAndNearby.md
 
 ## Regional Context
 
-![South Puget Sound](../assets/maps/22604%20herron%20google%20earth%20004.png)
+![South Puget Sound](../assets/maps/region-south-sound-tacoma-olympia.png)
 
-Wide Pacific Northwest context: [google earth 003](../assets/maps/22604%20herron%20google%20earth%20003.png) (Seattle ↔ Rainier).
+Wide Pacific Northwest context: [region-puget-sound-wide-rainier.png](../assets/maps/region-puget-sound-wide-rainier.png) (Seattle ↔ Rainier).

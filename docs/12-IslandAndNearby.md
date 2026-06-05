@@ -27,7 +27,7 @@ Herron Island is a **private, residential island** in Puget Sound. Guests come f
 
 Private island in **Case Inlet**; access via [HMCHI ferry](https://www.hmchi.org/p/FERRY) only. Residential community with beaches, trails, and wildlife. **Harstine Island** lies to the east; **Joemma Beach** and the Key Peninsula to the north/west.
 
-![Herron Island in Case Inlet](../assets/maps/22604%20herron%20google%20earth%20002.png)
+![Herron Island in Case Inlet](../assets/maps/region-case-inlet-herron-harstine.png)
 
 ---
 
@@ -37,7 +37,7 @@ Private island in **Case Inlet**; access via [HMCHI ferry](https://www.hmchi.org
 
 Walkable from Eagle Bluff (moderate walk). Primary beach destination mentioned in listing. Also nearby: **Miniature Lighthouse** on the south shore.
 
-![South Herron Island — beaches](../assets/maps/22604%20herron%20google%20earth%20001.png)
+![South Herron Island — beaches](../assets/maps/island-south-beach-lighthouse.png)
 
 <!-- TODO: Walking time from 22604, trail notes -->
 
@@ -105,8 +105,8 @@ Requires ferry round trip — plan around [schedule + cancellations](31-FerrySch
 
 | Trip | Time · distance | Map |
 |------|-----------------|-----|
-| **Mt. Rainier National Park** | ~2 hr · 87 mi | ![Rainier](../assets/maps/125%20two%20hours%20to%20rainier%20.png) |
-| **Olympic National Park** | ~2 hr 13 min · 106 mi | ![Olympic](../assets/maps/135%20two%20hours%20olympic%20natl%20park.png) |
+| **Mt. Rainier National Park** | ~2 hr · 87 mi | ![Rainier](../assets/maps/route-125min-mt-rainier.png) |
+| **Olympic National Park** | ~2 hr 13 min · 106 mi | ![Olympic](../assets/maps/route-133min-olympic-np.png) |
 | **Gig Harbor** | ~36 min | See [Surrounding Area](11-SurroundingArea.md) |
 | **Tacoma** | ~48 min | See [Surrounding Area](11-SurroundingArea.md) |
 
@@ -114,7 +114,7 @@ Requires ferry round trip — plan around [schedule + cancellations](31-FerrySch
 
 ## Island Map
 
-Satellite views above cover south island beaches and Case Inlet context. Still needed: annotated **walk from property (22604) to South Beach** — mark up google earth 001 on site.
+Satellite views above cover south island beaches and Case Inlet context. Still needed: `property-22604-walk-south-beach.png` — mark up [island-south-beach-lighthouse.png](../assets/maps/island-south-beach-lighthouse.png) on site.
 
 ---
 
