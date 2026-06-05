@@ -37,6 +37,14 @@
 - [ ] Ferry-dependent travel
 - [ ] Quiet community norms
 
+## Maps (`assets/maps/`)
+
+- [x] Travel-time maps from ferry dock (007–135 series) — copied from `assets/photos/`
+- [x] Google Earth island/region (22604 series)
+- [x] Wired into `11-SurroundingArea.md`, `12-IslandAndNearby.md`
+- [ ] Confirm ferry dock: **201** vs **20801** Isted Rd (Google uses 20801)
+- [ ] Annotated property grounds + walk to South Beach (on-site)
+
 ## Property Basics
 
 - [ ] Property overview / room descriptions

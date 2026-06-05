@@ -25,9 +25,9 @@ Herron Island is a **private, residential island** in Puget Sound. Guests come f
 
 ## About Herron Island
 
-<!-- TODO: Brief history, private island context, HMCHI link for guests who want more -->
+Private island in **Case Inlet**; access via [HMCHI ferry](https://www.hmchi.org/p/FERRY) only. Residential community with beaches, trails, and wildlife. **Harstine Island** lies to the east; **Joemma Beach** and the Key Peninsula to the north/west.
 
-Private island; access via [HMCHI ferry](https://www.hmchi.org/p/FERRY) only. Residential community with beaches, trails, and wildlife.
+![Herron Island in Case Inlet](../assets/maps/22604%20herron%20google%20earth%20002.png)
 
 ---
 
@@ -35,9 +35,11 @@ Private island; access via [HMCHI ferry](https://www.hmchi.org/p/FERRY) only. Re
 
 ### South Beach Park
 
-Walkable from Eagle Bluff (moderate walk). Primary beach destination mentioned in listing.
+Walkable from Eagle Bluff (moderate walk). Primary beach destination mentioned in listing. Also nearby: **Miniature Lighthouse** on the south shore.
 
-<!-- TODO: Walking time, trail notes, parking if driving -->
+![South Herron Island — beaches](../assets/maps/22604%20herron%20google%20earth%20001.png)
+
+<!-- TODO: Walking time from 22604, trail notes -->
 
 ### Beach access & etiquette
 
@@ -97,21 +99,22 @@ Board games, puzzles, movies at the house — <!-- TODO: inventory list from pro
 
 ---
 
-## Nearby (Off-Island)
+## Day Trips (Off-Island)
 
-Requires ferry round trip — plan around [schedule + cancellations](31-FerrySchedules.md).
+Requires ferry round trip — plan around [schedule + cancellations](31-FerrySchedules.md). Drive times from **mainland ferry dock**.
 
-| Trip | Distance / time | Highlights |
-|------|-----------------|------------|
-| **Gig Harbor** | <!-- TODO --> | Waterfront, dining, shops |
-| **Tacoma** | <!-- TODO --> | Museum of Glass, Point Defiance |
-| **Key Peninsula** | <!-- TODO --> | Parks, local character |
+| Trip | Time · distance | Map |
+|------|-----------------|-----|
+| **Mt. Rainier National Park** | ~2 hr · 87 mi | ![Rainier](../assets/maps/125%20two%20hours%20to%20rainier%20.png) |
+| **Olympic National Park** | ~2 hr 13 min · 106 mi | ![Olympic](../assets/maps/135%20two%20hours%20olympic%20natl%20park.png) |
+| **Gig Harbor** | ~36 min | See [Surrounding Area](11-SurroundingArea.md) |
+| **Tacoma** | ~48 min | See [Surrounding Area](11-SurroundingArea.md) |
 
 ---
 
 ## Island Map
 
-<!-- TODO: assets/maps/ — South Beach route, property location, viewpoints -->
+Satellite views above cover south island beaches and Case Inlet context. Still needed: annotated **walk from property (22604) to South Beach** — mark up google earth 001 on site.
 
 ---
 

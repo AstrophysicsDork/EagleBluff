@@ -35,26 +35,30 @@ Eagle Bluff sits on **Herron Island** in southern Puget Sound, reached from the 
 
 ### Where to shop (mainland)
 
-<!-- TODO: Specific stores — Costco, Fred Meyer, Gig Harbor grocers, Key Peninsula markets -->
+Drive times are from the **mainland ferry dock** after you cross off the island. See maps in [`assets/maps/`](../assets/maps/README.md).
 
-| Need | Suggestions |
-|------|-------------|
-| **Full grocery** | <!-- TODO --> |
-| **Quick stop near dock** | <!-- TODO --> |
-| **Fuel** | <!-- TODO --> |
-| **Pharmacy** | <!-- TODO --> |
+| Need | Place | Drive time | Map |
+|------|-------|------------|-----|
+| **Full grocery** | **Key IGA** — 9021 Key Peninsula Hwy NW | ~20 min | ![Key IGA](../assets/maps/020%20twenty%20minutes%20iga.png) |
+| **Quick food near dock** | **2 Margaritas** — 1509 Key Peninsula Hwy NW | ~7 min | ![2 Margaritas](../assets/maps/007%20seven%20minutes%20to%20margaritas.png) |
+| **Dining (Purdy)** | **Massimo Italian Bar & Grill** — 13802 Purdy Dr NW | ~30 min | ![Massimo](../assets/maps/030%20thirty%20minutes%20to%20italian.png) |
+| **Fuel / pharmacy** | <!-- TODO: confirm nearest --> | Likely Key Center / Purdy area | |
+
+**Stock up at Key IGA** (or farther afield) before your **first** crossing if you're staying multiple days.
 
 ---
 
 ## Driving to the Mainland Ferry Dock
 
-**Dock address:** 201 Isted Rd NW, Lakebay, WA
+**Dock address:** 201 Isted Rd NW, Lakebay, WA *(Google Maps often shows **20801 Isted Rd** for the ferry dock — same location; confirm on arrival.)*
 
 Use Google Maps, Apple Maps, or Waze for live traffic. Allow time **beyond** GPS estimates for ferry wait and crossing — see [Ferry Guide](30-FerryArrivalGuide.md).
 
+![SeaTac to Herron Island](../assets/maps/075%20seventy%20five%20minutes%20to%20seaTac.png)
+
 ### From SeaTac Airport
 
-Roughly **55–65 miles**, **1 hour 15 min – 1 hour 45 min** (traffic dependent), **plus ferry time**.
+Roughly **53 miles**, **~1 hour 15 minutes** to Herron Island (per route map), **plus ferry wait and crossing**.
 
 1. I-5 South toward Tacoma
 2. Exit 154B → WA-518 West
@@ -95,21 +99,23 @@ Build in buffer for flights — check [ferry schedule and cancellations](31-Ferr
 
 ---
 
-## Surrounding Area — Day Trips from the Mainland
+## Mainland Destinations — Drive Times from Ferry Dock
 
-If you leave the island for a mainland day (ferry both ways), consider:
+After you cross **to the mainland**, typical drives from the ferry dock:
 
-| Destination | Notes |
-|-------------|-------|
-| **Gig Harbor** | Waterfront dining, shops, maritime vibe |
-| **Tacoma** | Museums, Proctor District, full retail |
-| **Key Peninsula** | Local parks, waterfront drives |
-| <!-- TODO --> | |
+| Destination | Time · distance | Map |
+|-------------|-----------------|-----|
+| **Gig Harbor** | ~36 min · 22 mi | ![Gig Harbor](../assets/maps/040%20forty%20mins%20gig%20harbor.png) |
+| **Tacoma** | ~48 min · 35 mi (Narrows Bridge **toll**) | ![Tacoma](../assets/maps/050%20fifty%20minutes%20plus%20bridge%20to%20tacoma.png) |
+
+Day trips (ferry + long drive): [Island & Nearby — day trips](12-IslandAndNearby.md#day-trips-off-island).
 
 More on island-focused activities: [12-IslandAndNearby.md](12-IslandAndNearby.md).
 
 ---
 
-## Maps & Assets
+## Regional Context
 
-<!-- TODO: assets/maps/ — Key Peninsula, dock location, drive routes -->
+![South Puget Sound](../assets/maps/22604%20herron%20google%20earth%20004.png)
+
+Wide Pacific Northwest context: [google earth 003](../assets/maps/22604%20herron%20google%20earth%20003.png) (Seattle ↔ Rainier).
