@@ -24,7 +24,6 @@ This repository is the single source of truth for guest guides, house rules, ope
 | [Surrounding Area & Getting Here](docs/11-SurroundingArea.md) | Mainland, drives, stock up before ferry |
 | [Island & Nearby](docs/12-IslandAndNearby.md) | Island life, beaches, wildlife, day trips |
 | [The Home](docs/13-TheHome.md) | Property inside & out |
-| [Guest Impact](docs/15-GuestImpact.md) | 10% donated — charity + guest-chosen island projects |
 | [Ferry & Arrival](docs/30-FerryArrivalGuide.md) | Ferry only — separate concern |
 | [Ferry Schedules](docs/31-FerrySchedules.md) | Seasonal PDFs, low-tide cancellations |
 

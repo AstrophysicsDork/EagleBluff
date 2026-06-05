@@ -115,8 +115,6 @@ Requires ferry round trip — plan around [schedule + cancellations](31-FerrySch
 
 ---
 
-## Community & Clean-Up
+## Respect the Island
 
-A portion of every stay funds **island clean-up and community projects** — guests choose which project. See [Guest Impact](15-GuestImpact.md).
-
-<!-- TODO: Tie specific projects to places on island — trail, beach, bluff -->
+Pack out what you pack in. Herron Island is a residential community — leave beaches and trails as you found them.

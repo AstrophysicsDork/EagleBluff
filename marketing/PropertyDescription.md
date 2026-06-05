@@ -10,13 +10,12 @@
 | Island & nearby | `docs/12-IslandAndNearby.md` |
 | The home | `docs/13-TheHome.md` |
 | Ferry | `docs/30-FerryArrivalGuide.md` |
-| Guest impact (10% donated) | `docs/15-GuestImpact.md` |
 
 ---
 
 ## One-Liner
 
-South-facing Puget Sound retreat on a private island bluff — views, wildlife, and quiet, with 10% of every stay donated to charity and island clean-up (guests choose the project).
+South-facing Puget Sound retreat on a private island bluff — views, wildlife, and quiet.
 
 ---
 
@@ -39,12 +38,6 @@ South-facing Puget Sound retreat on a private island bluff — views, wildlife, 
 ## The Island
 
 Private Herron Island — residential, quiet, no stores, ferry-only access. See `docs/12-IslandAndNearby.md`.
-
----
-
-## Guest Impact
-
-10% of stay donated: 5% to <!-- TODO: charity --> + 5% to island clean-up (guest picks project). See `docs/15-GuestImpact.md`.
 
 ---
 
