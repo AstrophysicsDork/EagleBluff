@@ -114,7 +114,7 @@
 ## Marketing & Story
 
 - [x] Airbnb listing live — [rooms/1698780813654737500](https://www.airbnb.com/rooms/1698780813654737500) (title: "South-Facing Herron Island Retreat…", host: Evolve)
-- [ ] **Add ferry/septic/pass info to Airbnb listing** — critical gap vs. repo docs
+- [ ] **Add ferry/septic/pass info to Airbnb listing** — draft ready in `marketing/AirbnbListing.md` → send to Evolve
 - [ ] Align "Eagle Bluff" branding with Airbnb title or document both names
 - [ ] "Why people love this place" narrative
 - [ ] Peak season positioning (May–September)
