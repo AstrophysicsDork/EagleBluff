@@ -122,6 +122,8 @@
 ## Future Ideas (do not publish yet)
 
 - [ ] **Guest impact program** — 10% donation concept parked in `docs/_future/GuestImpact.md` until rental is on solid ground
+- [ ] **"Try before you buy"** — rental may double as a marketing funnel for a future sale of the property (from ChatGPT knowledge base brief, 2026-06-23)
+- [ ] **Brand name** — leaning "Eagle Bluff **Retreat**"; personality: calm, authentic, natural, PNW; avoid luxury/resort/party language
 
 ## Marketing & Story
 
