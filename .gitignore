@@ -427,3 +427,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# ──────────────────────────────────────────────────────────────
+# Eagle Bluff — LOCAL SECRETS (never commit real values; repo is public)
+# WiFi password, keypad/lock codes, gate codes, alarm codes, etc.
+# The *.local.* files below are ignored; the committed template/README is not.
+# ──────────────────────────────────────────────────────────────
+secrets/*.local.md
+secrets/*.local.txt
+secrets/*.local.*
+*.secrets.local.*
+# WiFi QR images encode the password — keep them local too
+**/wifi-qr.local.*

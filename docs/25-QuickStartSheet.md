@@ -8,12 +8,16 @@
 
 | | |
 |---|---|
-| **WiFi Network** | <!-- TODO --> |
-| **WiFi Password** | <!-- TODO --> |
+| **WiFi Network** | `herron bluff` *(⚠️ confirm — see note)* |
+| **WiFi Password** | _filled at print time_ — see [`secrets/`](../secrets/README.md) |
 | **Host Phone** | <!-- TODO --> |
 | **Check-out Time** | **11:00 AM** |
 | **Check-in** | After **4:00 PM** |
 | **Quiet Hours** | **10:00 PM – 7:00 AM** |
+
+> **Secrets note:** The real WiFi password and any door codes live in `secrets/SECRETS.local.md` (not committed to the public repo). When printing this sheet for the house, copy the password in from there.
+>
+> ⚠️ **WiFi network name is unconfirmed** — Jeff believes it's `herron bluff`; Haidee to verify on-island.
 
 ---
 

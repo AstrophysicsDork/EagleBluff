@@ -12,8 +12,8 @@
 
 These are facts in your head that unlock guest-ready docs. Just answer one.
 
-- [ ] **WiFi network name** is: `__________`
-- [ ] **WiFi password** is: `__________`
+- [~] **WiFi network name** — likely `herron bluff` ⚠️ **Haidee to confirm on-island** (Jeff in GA)
+- [x] **WiFi password** — captured in `secrets/SECRETS.local.md` ✅
 - [ ] **Your guest-facing phone number** is: `__________`
 - [ ] **Haidee's phone** (if guests can text her on-island) is: `__________`
 - [ ] **Thermostat default** to set at checkout is: `____°F`
@@ -62,6 +62,27 @@ Drop any photos into `assets/photos/` and tell the AI — it wires them in.
 - [ ] **Send Evolve the Airbnb update.** Ferry + septic copy is already written and waiting in
       [`marketing/AirbnbListing.md`](marketing/AirbnbListing.md) → "Ready-to-Paste for Evolve."
       This is the single biggest gap between your live listing and reality. Copy → paste → send.
+
+---
+
+## 🌐 Website (plan ready — Squarespace)
+
+Domains at Squarespace. You own **`herronsangels.com`** (on-brand!). Full analysis in [`marketing/WebsitePlan.md`](marketing/WebsitePlan.md). To move:
+
+- [ ] **Brand face:** "Eagle Bluff" vs "Herron's Angels" vs both
+- [ ] **Phase 0 today (free):** Squarespace → `herronsangels.com` → *Domain forwarding* → 301 → your Airbnb URL
+
+## ⏰ TIME-SENSITIVE — Domain Renewals
+
+- [ ] `terranastra.com` / `.org` — **already expired (Jun 6)**: renew or let go?
+- [ ] `terranastralparks.org` / `terranastraparks.org` — **expire ~Jul 1**: decide this week
+
+---
+
+## 📶 WiFi QR (done — refresh when SSID confirmed)
+
+- [x] QR generator built — `python tools/wifi_qr.py` → `secrets/wifi-qr.local.png`
+- [ ] **Regenerate** once Haidee confirms the real network name
 
 ---
 

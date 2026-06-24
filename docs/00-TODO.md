@@ -48,7 +48,7 @@
 ## Property Basics
 
 - [ ] Property overview / room descriptions
-- [ ] WiFi network name and password
+- [~] WiFi — password captured in `secrets/SECRETS.local.md`; **network name `herron bluff` UNCONFIRMED** (Haidee to verify on-island)
 - [ ] Host phone number
 - [ ] Address / directions
 - [ ] Parking at property
