@@ -61,7 +61,8 @@ Self check-in with keypad. Early check-in / late checkout by arrangement only �
 
 Herron Island ferry requires a **valid guest pass** per vehicle (coordinated by Haidee Clingman for rental guests). This is a private HMCHI ferry — not Washington State Ferries.
 
-- **$25 per vehicle** to bring a car on the ferry
+- **$25 per vehicle + $5 per guest, per crossing** — cash required
+- **Send your license plate to the host before arrival** (required for ferry boarding)
 - No practical limit on vehicles per reservation — notify host if bringing more than one
 
 <!-- TODO: Where to park at property, oversized vehicles / trailers -->

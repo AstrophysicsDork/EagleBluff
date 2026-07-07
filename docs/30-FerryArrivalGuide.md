@@ -20,15 +20,20 @@ Herron Island is a **private island**. The ferry is operated by the [Homeowners'
 
 ---
 
-## Guest Pass Required
+## Guest Access — Send Us Your License Plate
 
-You **must have a valid guest pass** to board the ferry. There is no public walk-on access without one.
+Herron Island is private — **guest access to the ferry is arranged in advance**, per [HMCHI ferry policy](https://www.hmchi.org/p/FERRY).
 
-- **Rental guests:** Your guest pass is coordinated by **Haidee Clingman**, Eagle Bluff's cleaner and on-island contact. <!-- TODO: exact handoff — at property on arrival, mailed ahead, etc. -->
-- **Do not arrive at the mainland dock without a pass** — you will not be able to board.
-- Passes are issued by island residents or property owners per [HMCHI ferry policy](https://www.hmchi.org/p/FERRY).
+**How it works for Eagle Bluff guests:**
 
-<!-- TODO: Pass format (card, hang tag, etc.), number of passes included per reservation -->
+1. **Before arrival: send us your vehicle's license plate number** — we provide it to the ferry crew (host member number: 349).
+2. At the dock, the crew verifies your vehicle against the guest list.
+3. **Bring cash** for the crossing fee (see Vehicles & Fees below).
+
+- **Do not arrive at the mainland dock without arranging access first** — you may not be able to board.
+- Questions on arrival day? Haidee Clingman (on-island contact): 206-765-9239.
+
+<!-- TODO: Confirm whether a physical pass/hang tag is also involved, or plate registration is the whole process -->
 
 ---
 
@@ -74,8 +79,10 @@ HMCHI also publishes a **Guest Information Handout** for visitors — ask your h
 
 ## Vehicles & Fees
 
-- **No practical limit** on vehicles per guest reservation, but each vehicle costs **$25** to bring on the ferry.
-- <!-- TODO: How / when is the $25 collected? Oversized vehicles, trailers -->
+- **$25 per vehicle + $5 per guest, per crossing** — **cash required**, paid to the ferry crew.
+- No practical limit on vehicles per reservation.
+- **Bring a cooler** for groceries in case the ferry wait runs long.
+- <!-- TODO: Oversized vehicles, trailers -->
 
 ---
 
@@ -124,7 +131,7 @@ Generally: **I-5 South** toward Tacoma → **WA-16 West** → **SR-302** → doc
 - Private HMCHI ferry — not WSDOT
 - **Guest pass required** (coordinated by Haidee Clingman for rental guests)
 - Crossing: ~7–10 minutes
-- **$25 per vehicle** on the ferry
+- **$25 per vehicle + $5 per guest, per crossing — cash**
 
 ---
 

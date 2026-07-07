@@ -28,7 +28,7 @@ Herron Island is a **private island** — not a Washington State Ferry.
 - **Guest pass required** — coordinated by Haidee Clingman; do not go to the dock without it
 - **Mainland dock:** 201 Isted Rd NW, Lakebay, WA
 - **Schedules:** [Ferry Schedules](31-FerrySchedules.md) — check **cancellations** before every crossing
-- Crossing ~7–10 min · **$25 per vehicle**
+- Crossing ~7–10 min · **$25/vehicle + $5/guest, cash, each crossing**
 
 Full details: [Ferry & Arrival Guide](30-FerryArrivalGuide.md)
 

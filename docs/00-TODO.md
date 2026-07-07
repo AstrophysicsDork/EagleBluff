@@ -14,7 +14,8 @@
 - [x] Seasonal schedule PDFs (winter 2025–26, summer 2026) — see `31-FerrySchedules.md`
 - [x] Cancellations / low-tide bulletin (check every travel day)
 - [ ] Ferry etiquette (see HMCHI Guest Information Handout)
-- [x] Vehicles: unlimited per reservation, **$25/car** on ferry
+- [x] Vehicles: unlimited per reservation; **$25/car + $5/guest per crossing, CASH** (updated from first guest msg 2026-06-25)
+- [x] Guest boarding = **license plate sent to crew in advance**; member #349
 - [x] Mainland dock: **201 Isted Rd NW, Lakebay, WA**
 - [ ] Parking instructions at ferry dock and property
 - [ ] What happens if a ferry is missed

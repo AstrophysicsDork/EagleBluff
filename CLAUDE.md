@@ -32,7 +32,8 @@ Key characteristics:
 - Ferry info: [hmchi.org/p/FERRY](https://www.hmchi.org/p/FERRY)
 - **Valid guest pass required** to board; coordinated by **Haidee Clingman** (cleaner / on-island contact) for rental guests
 - Mainland dock: **201 Isted Rd NW, Lakebay, WA**
-- **$25 per vehicle** on the ferry (no practical vehicle limit per reservation)
+- **$25 per vehicle + $5 per guest, per crossing — cash** (no practical vehicle limit per reservation)
+- Guest vehicles: **license plate sent to ferry crew in advance**; host HMCHI member number 349
 - Crossing time ~7–10 minutes
 - Guests must understand ferry logistics before arrival
 - Grocery and supply access is limited after crossing

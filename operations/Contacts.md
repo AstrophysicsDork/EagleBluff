@@ -8,8 +8,10 @@
 
 | Role | Name | Phone | Email | Notes |
 |------|------|-------|-------|-------|
-| Owner | Jeff | <!-- TODO --> | <!-- TODO --> | 51% owner |
-| Cleaner / on-island contact | Haidee Clingman | <!-- TODO --> | <!-- TODO --> | Turnovers; coordinates guest ferry passes for rental guests |
+| Owner | Jeff DeRemer | **470-521-1793** | <!-- TODO --> | 51% owner · guest-facing |
+| Cleaner / on-island contact | Haidee Clingman | **206-765-9239** | <!-- TODO --> | Lives full-time on island; immediate/on-island issues, cleaning, supplies |
+
+**HMCHI Member Number:** 349 (used with ferry crew for guest crossings)
 
 ---
 
